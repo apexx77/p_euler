@@ -1,6 +1,6 @@
 # p_euler #
 
-* Codes to the problems of project euler
+* Codes to the problems of [project euler](https://projecteuler.net/)
 
 <h2 align="center">Tech stack</h2>
 
